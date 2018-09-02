@@ -17,7 +17,7 @@ baseurl: ""
 title: Welcome!
 
 # Short description of your site
-description: My corner of the internet to write about things I find interesting. Thanks.
+description: Tech blog
 
 # --- Navigation bar options --- #
 
@@ -71,23 +71,13 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  github: daattali
-  twitter: daattali
+  rss: false
+# email: "someone@example.com"
+  github: nickramskill
+  twitter: Rambo878
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  linkedin: nicholas-ramskill
 
 # Select which share links to show in posts
 share-links-active:
