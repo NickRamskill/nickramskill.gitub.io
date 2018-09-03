@@ -4,7 +4,7 @@ title: First Post Here
 subtitle: Let's get things going...
 ---
 
-The overarching goal of this blog is to document my learning about Machine Learning and AI. The purpose of this first posting is to outline my strategy with regards to HOW I am going to achieve this. 
+The overarching goal of this blog is to document my study about Machine Learning and AI. The purpose of this first posting is to outline my strategy with regards to how I am going to achieve this. 
 
 As with most that are conducting personal study into Machine Learning - the obvious place to begin is with the immensely popular Andrew Ng MOOC on Coursera. I'm going to be no different in this and use this as my roadmap and syllabus for the first phase of this journey.  
 
