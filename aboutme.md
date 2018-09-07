@@ -7,7 +7,7 @@ My name is Nick Ramskill. I'm a UK transplant to California. Passionate about te
 
 My undergraduate and graduate degrees are in Chemical Engineering. As a graduate student my research was focused on the fluid mechanics of multipase flow in porous materials such as geological rocks (oil recovery) and catalysts (reaction engineering). 
 
-Since moving to California, I now work at Taylor Farms as a Process Engineer focused on process automation and industrial robotics. 
+Since moving to California, I now work at Taylor Farms as a Process Engineer focused on process design, optimization and automation. 
 
 Over the last few years my interest in programming has grown as I have learned more about the huge opportunities and potential that Machine Learning and AI have for solving technological challenges. Specifically, my interests are in image processing and machine vision.
 
