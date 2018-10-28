@@ -16,6 +16,8 @@ From this it can be seen that the setosa class is linearly seperable from the vi
 
 ![Binomial Iris Data Set]({{ "/img/Iris-2.png" | absolute_url }})
 
-As with the previous mini-project on linear regression, I decided to go the route of programming all of the steps (i.e. calculating the cost function and gradient descent) from scratch to ensure that I fully understood the translation from the theory to the practical application. Here is a [link](https://github.com/nickramskill/Machine-Learning-Projects){:target="_blank"} to the Jupyter notebook detailing the model development and testing. The data for the project was obtained from the UC Irvine Machine Learning Repository.  
+As with the previous mini-project on linear regression, I decided to go the route of programming all of the steps (i.e. calculating the cost function and gradient descent) from scratch to ensure that I fully understood the translation from the theory to the practical application. 
+
+Here is a [link](https://github.com/nickramskill/Machine-Learning-Projects){:target="_blank"} to the Jupyter notebook detailing the model development and testing. The data for the project was obtained from the UC Irvine Machine Learning Repository.  
 
 As the setosa and the virginica/versicolor classes are linearly separable throughout the feature space, the logistic regression model obtained a 100 % prediction accuracy. Although this is a somewhat simple application of logistic regression, I found it to be extremely productive to programme the model from scratch as it helps me to translate the mathematical theory into code and solidify my understanding of how the different components fit together. 
