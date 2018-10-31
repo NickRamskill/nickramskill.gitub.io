@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logistic Regression Mini-Project
+title: Logistic Regression Mini-Project (Part 1)
 subtitle: Binomial Logistic Regression Classification
 ---
 
