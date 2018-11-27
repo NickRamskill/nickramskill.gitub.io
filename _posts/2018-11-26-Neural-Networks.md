@@ -10,7 +10,7 @@ Here is a [link](https://github.com/nickramskill/Machine-Learning-Projects){:tar
 
 In this mini-project I have used gradient descent to optimize the parameters in training the model. Whenever I am developing or testing a new model, I like to record the value of the loss function after each iteration to check that the model is converging. 
 
-![Digit Recognition]({{ "/img/.png" | absolute_url }})
+![Gradient Descent]({{ "/img/NN-J-Iter.png" | absolute_url }})
 
 With this model, I achieved a prediction accuracy of 94 % (compared to 88 % accuracy with my home-built logistic regression algorithm). 
 
