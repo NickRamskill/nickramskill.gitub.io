@@ -8,7 +8,7 @@ In Week 3 of the Andrew Ng Machine Learning programme, we were introduced to cla
 
 ## Binomial Logistic Regression
 
-After completing the lectures and assignments, I implemented the binomial logistic regression algorithm to the Iris data set. In this dataset four physical characteristics of the flowers (sepal length, sepal width, petal length and petal width) were measured for three different varietals of the Iris flower (setosa, virginica and versicolor). The figure below shows the matrix of scatter plots for the Iris data set colored by the target variable (red: setosa, green: versicolor, blue: virginica). 
+After completing the lectures and assignment, I implemented the binomial logistic regression algorithm to the Iris data set. In this dataset four physical characteristics of the flowers (sepal length, sepal width, petal length and petal width) were measured for three different varietals of the Iris flower (setosa, virginica and versicolor). The figure below shows the matrix of scatter plots for the Iris data set colored by the target variable (red: setosa, green: versicolor, blue: virginica). 
 
 ![Multiclass Iris Data Set]({{ "/img/Iris.png" | absolute_url }})
 
