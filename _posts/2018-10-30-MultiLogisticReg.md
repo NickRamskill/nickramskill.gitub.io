@@ -12,6 +12,6 @@ So, in the second part of the mini-project, I have implemented the multiclass lo
 
 Here is a [link](https://github.com/nickramskill/Machine-Learning-Projects){:target="_blank"} to the Jupyter notebook detailing the model development and testing. 
 
-Using my home-built algorithm I obtain a prediction accuracy of 89 % whilst using the scikit-learn implementation an accuracy of 91 % has been obtained. The objective of this exercise was not to draw a comparison between the accuracy of the two algorithms but rather to learn how to implement the multiclass logistic regression classification model and to familiarize myself with implementing machine learning models using scikit-learn.    
+Using my home-built algorithm I obtain a prediction accuracy of 89 % whilst using the scikit-learn implementation an accuracy of 91 % has been obtained. The objective of this exercise was not to draw a comparison between the accuracy of the two algorithms but rather to learn how to implement the multiclass logistic regression classification model and to familiarize myself with implementing machine learning models using the scikit-learn toolbox.    
 
 
