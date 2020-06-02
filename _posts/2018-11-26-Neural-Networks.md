@@ -14,4 +14,4 @@ In this mini-project I have used gradient descent to optimize the parameters in 
 
 With this model, I achieved a prediction accuracy of 94 % (compared to 88 % accuracy with my home-built logistic regression algorithm). 
 
-The application of neural networks in machine vision is a subject that I am extremely interested in and I look forward to developing my models further and apply them to so exciting challenges in this area.
+The application of neural networks in machine vision is a subject that I am extremely interested in and I look forward to developing my models further and apply them to so exciting challenges in this area!
