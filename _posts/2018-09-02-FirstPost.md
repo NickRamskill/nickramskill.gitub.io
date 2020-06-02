@@ -20,7 +20,7 @@ So to summarise - my approach over the coming months will be:
 
 After following this approach for the eleven weeks of the Andrew Ng MOOC, I should have a good foundation in place to begin tackling more challenging projects. 
 
-Looking forward to it. 
+Looking forward to it! 
 
 Just as a side-note - I will be working on the Andrew Ng course assignments in Matlab and my personal projects in Python. 
 
