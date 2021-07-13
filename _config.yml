@@ -33,6 +33,9 @@ navbar-links:
     - Logistic Regression: "https://nickramskill.github.io/2018-10-28-BinomLogisticReg/"
     - Neural Networks: "https://nickramskill.github.io/2018-11-26-Neural-Networks/"
    Academia:
+    - Publications:
+    - Patents:
+    - Presentations:
   #Operations Research: "https://pages.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
