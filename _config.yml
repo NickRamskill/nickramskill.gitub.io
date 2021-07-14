@@ -24,9 +24,9 @@ description: Technology Blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Running: 
+  Sports Analytics: 
     - Fitness Tracker Web App: "https://dash-running-app-nickramskill.herokuapp.com"
-  Energy: 
+  Energy Analytics: 
     - Microgrid Simulation Web App: "https://energy-asset-simulation.herokuapp.com"
   Data Science:
     - Linear Regression: "https://nickramskill.github.io/2018-09-08-LinReg/"
