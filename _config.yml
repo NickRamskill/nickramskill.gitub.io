@@ -44,7 +44,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/IMG_GOLF.png"
+title-img: "/img/app_logo.eps"
 
 # --- Background colour/image options --- #
 
